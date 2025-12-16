@@ -76,8 +76,12 @@ Com base em um levantamento de requisitos e seguindo as especificações, os blo
 * Jamilly da Silva Pinheiro
 * Jéssica Gomes Carrico
 
-## Licença
+## Git do Usuário:
 
-Este projeto está licenciado sob a Licença MIT.
+```text
+https://github.com/jessicac13/TutorialSistemasComunica-oFPGA
+
+```
+## Licençaste projeto está licenciado sob a Licença MIT.
 
 Copyright (c) 2025 Faber Bernardo
