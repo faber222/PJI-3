@@ -22,13 +22,33 @@ Com base em um levantamento de requisitos e seguindo as especificações, os blo
 
 ## Conteúdo do Repositório
 
-* [Plano de Trabalho](./M1/PlanoDeTrabalhoPJI3.pdf): O plano de trabalho completo do projeto, detalhando objetivos, metas, cronograma e equipe.
-* [M1/](./M1): Documentação da Meta 1 (Análise de Requisitos), incluindo o relatório de análise do questionário e o relatório de definição dos blocos LTE.
-* [ARQUIVOS DIDATICOS/](./ARQUIVOS-DIDATICOS): Apresentações teóricas que explicam os conceitos fundamentais de cada bloco (QPSK, Turbo, OFDM).
-* [TUTORIAIS/](./TUTORIAIS): Guias práticos passo a passo para a implementação.
-* [LICENSE](./LICENSE): Licença MIT do projeto.
 
-## Fluxo de Trabalho (Tutorial QPSK)
+```text
+.
+├── ARQUIVOS-DIDATICOS
+│   ├── Codificação-Turbo-e-sua-aplicação.pdf
+│   ├── Modulação FSK e sua aplicação.pdf
+│   ├── Modulação-OFDM-e-sua-aplicação.pdf
+│   └── Modulação-QPSK-e-sua-aplicação.pdf
+├── LICENSE
+├── M1
+│   ├── DefinicaoBlocosLTE.pdf
+│   ├── Laboratórios Didáticos para Ensino de Sistemas de Comunicação em FPGA.pdf
+│   ├── PlanoDeTrabalhoPJI3.pdf
+│   ├── Questionario.PJI3.pdf
+│   └── RELATORIO-PJI3-QUESTIONARIO (2).pdf
+├── M2
+│   └── Laboratórios Didáticos para Ensino de Sistemas de Comunicação em FPGA_M2.pdf
+├── M3
+│   └── Laboratórios Didáticos para Ensino de Sistemas de Comunicação em FPGA (1).pdf
+├── README.md
+└── TUTORIAIS
+    ├── fsk
+    ├── ofdm
+    ├── qpsk
+    └── turbo
+```
+# Fluxo de Trabalho (Tutorial QPSK)
 
 O arquivo [Tutorial Modulação QPSK](./TUTORIAIS/Tutorial-Modulação-QPSK-e-sua-aplicação.pdf) detalha o fluxo de trabalho completo para modelar, simular e gerar o VHDL para o modulador QPSK.
 
