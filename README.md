@@ -19,6 +19,11 @@ Com base em um levantamento de requisitos e seguindo as especificações, os blo
 3.  **OFDM (Orthogonal Frequency Division Multiplexing):**
     * **O que é:** A base para tecnologias como Wi-Fi, 4G e 5G. É uma técnica de modulação que divide o fluxo de dados em múltiplas subportadoras ortogonais. Isso torna o sistema robusto contra interferência intersimbólica (ISI) causada por multicaminho e permite alta eficiência espectral.
     * **Material Teórico:** [Modulação OFDM e Sua Aplicação](./ARQUIVOS-DIDATICOS/Modulação-OFDM-e-sua-aplicação.pdf)
+  
+4. **FSK (Frequency Shift Keying):**
+   * **O que é:** Uma técnica de modulação digital na qual a informação é transmitida por meio da variação da frequência da portadora. Na forma binária (BFSK), cada bit é representado por uma frequência distinta. Apresenta implementação simples e boa robustez a ruídos, sendo amplamente utilizada em sistemas de comunicação de baixa complexidade e em aplicações didáticas.
+   * **Material Teórico:** [Modulação FSK e Sua Aplicação](./ARQUIVOS-DIDATICOS/Modulação%20FSK%20e%20sua%20aplicação.pdf)
+
 
 ## Conteúdo do Repositório
 
