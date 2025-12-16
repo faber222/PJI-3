@@ -4,7 +4,7 @@ Este repositório contém os materiais do Projeto Integrador 3 (PJI3) do curso d
 
 O objetivo principal é aproximar a teoria e a prática, permitindo aos estudantes implementar e testar blocos fundamentais de comunicação (como modulação, codificação e OFDM) diretamente em hardware, complementando a formação teórica.
 
-## Blocos Implementados (Estudo de Caso LTE)
+## Blocos Implementados
 
 Com base em um levantamento de requisitos e seguindo as especificações, os blocos fundamentais escolhidos para implementação foram:
 
