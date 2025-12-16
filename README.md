@@ -61,11 +61,12 @@ O arquivo [Tutorial Modulação QPSK](./TUTORIAIS/Tutorial-Modulação-QPSK-e-su
 
 ### Passos Principais do Tutorial
 
-1.  **Modelagem em Simulink:** O tutorial guia a criação de um modelo Simulink para o modulador QPSK, usando fontes de sinal (seno, cosseno), um gerador de sequência e o bloco "QPSK Modulator Baseband".
-2.  **Simulação (Simulink):** Demonstra como executar a simulação no Simulink e visualizar os sinais de entrada e a saída modulada (com as mudanças de fase) em um Time Scope.
-3.  **Geração de VHDL (HDL Coder):** Mostra como usar o "HDL Workflow Advisor" no MATLAB para selecionar o subsistema `qpsk`, configurar os parâmetros e gerar o código VHDL e o testbench sintetizáveis.
-4.  **Projeto no Quartus Prime:** Instruções para criar um novo projeto no Quartus, adicionar os arquivos VHDL gerados pelo HDL Coder e compilar o design.
-5.  **Simulação (ModelSim):** O tutorial finaliza mostrando como executar os scripts de compilação (`.do`) no ModelSim para verificar o comportamento do código VHDL, confirmando que a saída do hardware corresponde à simulação.
+1.  **Modelagem em Simulink** 
+2.  **Simulação (Simulink)** 
+3.  **Geração de VHDL (HDL Coder)** 
+4.  **Projeto no Quartus Prime**
+5.  **Simulação (ModelSim)**
+6.  **Gravação na DE2-115**
 
 ## Equipe
 
