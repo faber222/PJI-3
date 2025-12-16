@@ -48,9 +48,6 @@ Com base em um levantamento de requisitos e seguindo as especificações, os blo
     ├── qpsk
     └── turbo
 ```
-# Fluxo de Trabalho (Tutorial QPSK)
-
-O arquivo [Tutorial Modulação QPSK](./TUTORIAIS/Tutorial-Modulação-QPSK-e-sua-aplicação.pdf) detalha o fluxo de trabalho completo para modelar, simular e gerar o VHDL para o modulador QPSK.
 
 ### Tecnologias Utilizadas
 
